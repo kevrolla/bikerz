@@ -1,0 +1,109 @@
+.register-left
+{
+padding: 3em 2em!important;
+    box-shadow: 12px 0 15px -4px #ccc, -12px 0 8px -4px #ccc;
+    border-radius: 10px 0 0 10px;
+
+}
+.page-head p
+{
+	text-align: center !important;
+}
+.register .btn-common
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+
+.register .btn-common:hover
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+
+
+.register .grey-col
+{
+        border: 2px solid #3fb748;
+    background: #fff !important;
+    color: #3fb748 !important;
+}
+
+.register .grey-col:hover
+{
+	    border: 2px solid #3fb748;
+    background: #fff !important;
+    color: #3fb748 !important;
+}
+
+.register .page-container .row {
+    align-items: unset !important;
+}
+
+.inner-img-reg
+{
+       background: url("/images/newimage.jpg");
+    background-size: cover;
+    height: 100%;
+        background-position: center;
+}
+.register-margin-btm
+{
+    margin-bottom: 50px;
+}
+.no-margin-left
+
+{
+
+    padding-left: unset;
+}
+
+/*----------------------- Media queries --------------------------*/
+
+@media screen and (device-aspect-ratio: 2880/1800)
+
+{
+   .register-margin
+{
+        min-height: 1500px;
+}
+
+.register-left
+{
+        padding: 15em 2em!important;
+} 
+}
+
+
+@media screen and (device-aspect-ratio: 1920/1080)
+
+{
+   
+
+
+.register .footer-container{
+  position: relative !important;
+  background: #3fb748;
+  z-index: 99 !important;
+  height: 70px !important;
+  padding: 20px 0 !important;
+  margin-top:60px !important;
+
+}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}

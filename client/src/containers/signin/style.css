@@ -1,0 +1,161 @@
+.sign-in-form
+{
+
+
+	    padding: 3em 2em!important;
+    box-shadow: 12px 0 15px -4px #ccc, -12px 0 8px -4px #ccc;
+     border-radius: 10px 0 0 10px;
+}
+.register-link
+{
+	   color: #57b849 !important;
+    
+}
+.footer-reg
+{
+	    padding: 15px 0;
+    font-size: 13px;
+    font-weight: bold;
+}
+.page-head p
+{
+	text-align: center !important;
+}
+.signin .btn-common
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+.signin .btn-common:hover
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+
+
+
+.inner-img
+{
+       background: url("/images/reg-bikers.png");
+    background-size: cover;
+    height: 100%;
+}
+
+.no-margin-left
+
+{
+
+    padding-left: unset;
+}
+.signin  .page-container .row {
+    align-items: unset !important;
+}
+
+
+
+
+
+
+@media screen and (device-aspect-ratio: 2880/1800)
+{
+.signin .page-container
+{
+    margin-top: 300px;
+}
+   .signin .sign-in-form {
+    padding: 18em 2em!important;
+}
+
+}
+/*----------------------- Media queries --------------------------*/
+
+
+
+
+@media screen and (device-aspect-ratio: 1920/1080)
+
+{
+   .signin .sign-in-form {
+    padding: 8em 2em!important;
+
+}
+
+.signin .sign-height {
+    min-height: 700px;
+    /* margin-top: 58px; */
+}
+}
+
+@media(min-width:1900px)
+{
+   .sign-height
+   
+   {
+    min-height: 800px;
+
+   } 
+
+}
+
+
+@media screen and (device-aspect-ratio: 1440/900){
+
+ .signin .page-container
+ {
+  margin-top: 0;
+
+ }
+ .signin .sign-in-form {
+    padding: 8em 2em !important;
+}
+
+.signin .footer-container {
+    margin-top: 100px !important;
+}
+}
+
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+
+
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media(min-width:768px)
+{
+   .sign-in-form {
+    padding: 1em 2em !important;
+
+}
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}
+
+.search-button{
+    width: auto !important;
+    border:2px solid #3fb748 !important;
+    margin-top: 0px !important;
+}
+
+.search-button .fa-search{
+    color: #000000;
+}
+
+.top-margin-10{
+    margin-top: 10px;
+}

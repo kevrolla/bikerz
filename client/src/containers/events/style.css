@@ -1,0 +1,128 @@
+.event-box-icons
+{
+	margin-right: 10px;
+    font-size: 30px;
+    color: #3fb748;
+}
+.h-divider{
+    margin-top:5px;
+    margin-bottom:5px;
+    height:1px;
+    width:100%;
+    border-top:1px solid gray;
+   }
+.shop-location-icon{
+	margin-right: 5px;
+	margin-top: -6px;
+}
+.event-time-icon{
+	margin-right: 5px;
+}
+.event-date-icon{
+	margin-right: 5px;
+}
+.dashboard-card{
+	min-height:550px;
+}
+.faq-list-icon{
+	margin-right: 10px;
+	font-size: 32px;
+    color: #3fb748;
+}
+.faq-list { 
+    display: inline;
+	white-space: normal;
+    margin-top:20px;
+}
+.faq-list-style{
+	white-space: normal;
+	margin-top: 30px;
+}
+.event-bg {
+    background: url(/images/events-bg.jpg);
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    min-height: 1000px;
+
+}
+.location-icon{
+	position: relative;
+    right: -25px;
+    top: -10px;
+}
+.thread-text{
+	display: inline-block;
+}
+.shop-list{
+	margin-top:23px;
+}
+.event-list{
+	margin-top: 20px !important;
+}
+.jwfbbd {
+    margin-top: 10px;
+    width:95%;
+}
+.thumbnail-image-style{
+	margin-top:14px;
+}
+.location-icon-shop{
+	position: relative;
+    right: -25px;
+    top: -17px;
+    margin-top: 0px;
+}
+.shop-list-style{
+	margin-top:-16px;
+}
+ .input-icons i { 
+            position: absolute; 
+        } 
+          
+.input-icons { 
+  width: 100%; 
+  margin-bottom: 10px; 
+        } 
+          
+ .icon { 
+padding: 10px;
+min-width: 40px;
+margin-top: -38px;
+position:absolute;
+left: 273px;
+color: #e0e0e0;				
+        }
+.nj-button-style{
+    padding: .5rem 1rem;
+}
+.search-content-style{
+    padding-left: 10px;
+}
+.search-bar-style{
+    padding-left: 16px;
+
+}
+/*----------------------- Media queries --------------------------*/
+@media (min-width: 1800px)  { 
+
+.left-no-padding {
+    padding-left: 8px !important;
+}
+ }
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}

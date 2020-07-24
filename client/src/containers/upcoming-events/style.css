@@ -1,0 +1,35 @@
+.upcoming-main .main-row
+{
+	margin-bottom: 150px;
+}
+@media(min-width:1900px)
+
+{
+ .upcoming-main .footer-container{
+   position: relative !important;
+    background: #3fb748;
+    z-index: 99 !important;
+    height: 70px !important;
+    padding: 20px 0 !important;
+    margin-top: 60px !important;
+
+}
+}
+
+/*----------------------- Media queries --------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}

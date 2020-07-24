@@ -1,0 +1,58 @@
+.btn-wrap{
+	width: 100%;
+	text-align: center;
+}
+.btn-wrap .btn-common{
+	margin: 0 5px;
+}
+.home .footer-container
+{
+	margin-top:unset !important;
+}
+
+.home .logout_btn
+{
+	display: none !important;
+}
+
+.home .btn-common
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+.home .btn-common:hover
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+
+.home .register-btn
+{
+	    border: 2px solid #3fb748;
+    color: #3fb748 !important;
+    background: #fff !important;
+}
+
+.home .register-btn:hover
+{
+	    border: 2px solid #3fb748;
+    color: #3fb748 !important;
+    background: #fff !important;
+}
+/*----------------------- Media queries --------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}

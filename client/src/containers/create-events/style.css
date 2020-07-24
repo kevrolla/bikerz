@@ -1,0 +1,77 @@
+.react-datepicker-wrapper input
+{
+	    border: 1px solid #ddd;
+    box-shadow: inset 0 1px 3px #F5F6F7;
+    display: inline-block;
+    height: 32px;
+    border-radius: 3px;
+    line-height: 32px;
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    outline: none;
+}
+.create-event-page .btn-common
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+
+.create-event-page .btn-common:hover
+{
+    color: #fff !important;
+    background: #3fb748 !important;
+}
+
+
+.create-event-page .grey-col
+{
+border: 2px solid #3fb748;
+    background: #fff !important;
+    color: #3fb748 !important;
+}
+
+.create-event-page .grey-col:hover
+{
+border: 2px solid grey;
+    color: #fff !important !important;
+    background: grey !important;
+}
+.create-event-in-form
+{
+
+
+        padding: 3em 2em!important;
+    box-shadow: 12px 0 15px -4px #ccc, -12px 0 8px -4px #ccc;
+}
+.create-event-button{
+    color: #fff !important; 
+    background: #3fb748 !important;
+}
+.btn-common.create-event-back-button {
+    border: 2px solid #3fb748;
+    background: #fff !important;
+    color: #3fb748 !important;
+}
+.create-event-style{
+    min-height:1100px;
+}
+/*----------------------- Media queries --------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}

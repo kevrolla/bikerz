@@ -1,0 +1,139 @@
+.createthread-main .page-container .row {
+    align-items: unset !important;
+}
+
+
+.rdw-editor-main
+
+{
+	border: 1px solid #dedede;
+    height: 400px !important;
+    overflow-y: hidden !important;
+    background: #ffff;
+}
+.createthread-row-second
+{
+	 
+    margin-bottom: 100px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+
+
+
+	 }
+
+    .createthread-row
+    {
+margin-top: 30px;}
+
+    
+
+.thread-head-style
+{
+	    margin-bottom: 15px;
+
+
+
+}  
+
+.input-style-title
+{
+	margin-bottom: 20px;
+}
+
+.max-icon
+{
+	width:100%;
+}
+
+.outer-row
+
+{
+	    background: #eaeaeb87;
+    padding: 20px 20px 0px 20px;
+}
+
+.btn-first-create
+{
+	background-color: #ffff !important;
+}
+
+.btn-seco-create
+
+{
+	    color: #ffff;
+    background: #3fb748;
+}
+
+.btn-seco-create:hover
+
+{
+	    color: #ffff;
+    background: #3fb748;
+}
+.emoji-mart
+{
+	width: 100% !important;
+	    margin-top: 26px;
+}
+
+.smily-form
+{
+	margin-top:30px;
+}
+/*----------------------- Media queries --------------------------*/
+@media screen and (device-aspect-ratio: 2880/1800)
+{
+   .createthread-main .btn-seco-create
+   {
+        margin-left: -245px !important;
+   } 
+}
+
+@media screen and (device-aspect-ratio: 1440/900)
+{
+     .createthread-main .btn-seco-create
+  {
+    margin-left: -55px !important;
+  }
+}
+
+
+
+
+
+@media(min-width:1900px)
+
+{
+  .createthread-main .footer-container{
+   position: relative !important;
+    background: #3fb748;
+    z-index: 99 !important;
+    height: 70px !important;
+    padding: 20px 0 !important;
+    margin-top: 60px !important;
+
+}
+.btn-seco-create
+{
+        margin-left: -150px;
+}
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+@media only screen and (max-width: 767px) {
+  
+}
+
+@media only screen and (max-width: 479px) {
+  
+}
